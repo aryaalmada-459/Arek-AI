@@ -6,14 +6,9 @@ Aplikasi To-Do List yang modern, interaktif, dan berbasis web, dirancang untuk m
 
 ## ✨ Fitur Utama
 
-- 📅 **Tampilan "Hari Ini":** Fokus pada tugas yang perlu diselesaikan hari ini untuk produktivitas maksimal.
 - ➕ **Tambah & Edit Tugas:** Mudah menambah tugas baru atau mengedit yang sudah ada dengan modal yang intuitif.
 - 🕐 **Waktu & Tanggal:** Tetapkan waktu dan tanggal jatuh tempo untuk setiap tugas.
 - 😊 **Pemilih Emoji:** Personalisasi setiap tugas dengan emoji yang unik untuk representasi visual yang lebih baik.
-- 📝 **Sub-tugas:** Pecah tugas besar menjadi sub-tugas yang lebih kecil dan dapat dilacak.
-- ✅ **Pelacakan Progress:** Lihat progress sub-tugas secara real-time (misalnya, "2 dari 5 selesai").
-- 🔄 **Beralih Tampilan:** Tombol untuk beralih antara melihat tugas "Hari Ini" atau "Semua Tugas".
-- 💾 **Penyimpanan Lokal:** Semua data tugas Anda disimpan secara aman di `localStorage` browser.
 - 🎨 **Desain Modern & Animasi Halus:** Nikmati antarmuka pengguna yang bersih dengan efek glassmorphism dan animasi latar belakang gelombang yang menarik.
 
 ## 🛠️ Teknologi yang Digunakan
@@ -31,16 +26,11 @@ Karena ini adalah aplikasi client-side, menjankannya sangat mudah:
 
 1.  **Clone atau unduh** repositori ini.
     ```bash
-    git clone https://github.com/username/awesome-todo-list.git
-    cd awesome-todo-list
+    git clone https://github.com/aryaalmada-459/Arek-AI.git
     ```
 2.  **Buka file `index.html`** di browser web favorit Anda (Chrome, Firefox, Safari, dll).
 
 Itu saja! Tidak ada instalasi atau build process yang diperlukan.
-
-## 📁 Struktur Proyek
-
-Struktur file dan folder untuk proyek ini diatur dengan rapi agar mudah dipelihara.
 
 ## 🚀 Peningkatan di Masa Depan
 
@@ -64,10 +54,6 @@ Kontribusi sangatlah dihargai! Jika Anda memiliki ide untuk fitur baru, menemuka
 4.  **Push** ke branch Anda (`git push origin fitur-baru`).
 5.  **Buka Pull Request** dan jelaskan perubahan Anda dengan detail.
 
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail lebih lanjut.
-
 ---
 
-**Dibuat dengan ❤️ oleh [Nama Anda](https://github.com/username)**
+**Dibuat dengan AI?🤔(Asli Itu) oleh [Arya Almada](https://github.com/aryaalmada-459) dan [Herbert Agra](https://github.com/anfdoang)**
